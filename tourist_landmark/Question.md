@@ -1,0 +1,2 @@
+Tourist Landmark Path Finder
+Problem Definition: A tourist wants to explore the shortest path between two famous landmarks in a city. The shortest path is measured by the number of stops (not cost). Search Strategy: Breadth First Search (Uninformed Search)
