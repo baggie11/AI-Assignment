@@ -6,5 +6,3 @@ Each use case demonstrates the application of different **search strategies** in
 
 ---
 
-=======
->>>>>>> 0d859852ffadfb4c086ebc6f4e432225d416bc70
